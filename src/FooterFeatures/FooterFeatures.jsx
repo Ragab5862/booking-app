@@ -57,7 +57,7 @@ const FooterFeatures = () => {
               rel="noopener noreferrer"
             >
               <img
-                src="/public/imgs/app-store.svg"
+                src="/imgs/app-store.svg"
                 alt="App Store"
                 className="h-12 cursor-pointer hover:opacity-80 transition-all"
               />
