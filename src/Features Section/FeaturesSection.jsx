@@ -43,7 +43,7 @@ const FeaturesSection = () => {
 
         <div className="relative z-10 w-[280px] sm:w-[320px] h-[400px] sm:h-[470px]">
           <img
-            src="/public/imgs/11.jpg"
+            src="/imgs/11.jpg"
             alt="Feature"
             className="w-full h-full object-cover rounded-3xl shadow-2xl"
           />

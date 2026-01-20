@@ -75,21 +75,21 @@ const TechnicalNames = () => {
             </h4>
             <div className="flex gap-3">
               <img
-                src="/public/imgs/Payment/expresscard.svg"
+                src="/imgs/Payment/expresscard.svg"
                 alt="PayPal"
                 className="h-8 rounded bg-white px-1"
               />
               <img
-                src="/public/imgs/Payment/visa.svg"
+                src="/imgs/Payment/visa.svg"
                 className="h-8 rounded"
               />
               <img
-                src="/public/imgs/Payment/mastercard.svg"
+                src="/imgs/Payment/mastercard.svg"
                 alt="MasterCard"
                 className="h-8"
               />
               <img
-                src="/public/imgs/Payment/paypal.svg"
+                src="/imgs/Payment/paypal.svg"
                 alt="Amex"
                 className="h-8"
               />
